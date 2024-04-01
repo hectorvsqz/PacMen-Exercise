@@ -1,5 +1,5 @@
 # PacMen-Exercise
-## Description
+## Description and Instructions
 This is a quick generator of bouncing Pacmen figures. You can use the two buttons to add more Pacmen to the screen and start the game.
 
 ## Future improvements 
